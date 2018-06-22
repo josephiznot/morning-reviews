@@ -9,14 +9,13 @@ We will be creating a single scroll web page with a
 
 - Step 1: Navigation bar
   - Create a navigation bar that stretches across the entire width of the window
-- Step 2: Navigation links
-  - Create navigation links in order to navigate throughout your webpage
-- Step 3: Align nav links
-  - Vertically center the nav links
-  - Add spacing in between each nav link
+- Step 2: Create a title
+  - Add a title to your navbar
+- Step 3: Align title
+  - Vertically, and horizontally align your title.
 - Step 4: Landing page
   - Add a background image to fill the full width and heighth of the landing page
-  - Create a div in that will contain your web site's title
+  - Create a div within the landing page which will contain a description of your website.
   - Center it vertically & horizontally within your landing page.
   - Style the div with a border and an opacity of 0.5.
 - Step 5: Add content
