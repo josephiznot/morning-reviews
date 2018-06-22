@@ -5,7 +5,7 @@ We will be creating a single scroll web page with a
 - Content
 - footer
 
-##Joes Morning Review 06-22
+## Joes Morning Review 06-22
 
 - Step 1: Navigation bar
   - Create a navigation bar that stretches across the entire width of the window
@@ -30,4 +30,4 @@ We will be creating a single scroll web page with a
   - Create a footer at the bottom of the web page.
   - Footer should contain your name and a link to the top of the web page.
 
-  ##Congratulations!!! You designed your first web page!
+  ## Congratulations!!! You designed your first web page!
